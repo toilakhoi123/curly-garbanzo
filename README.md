@@ -1,2 +1,2 @@
-# curly-garbanzo
-csharp and stuff
+# project
+code repo cho dự án 
